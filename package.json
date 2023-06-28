@@ -1,7 +1,7 @@
 {
   "name": "cursoecmascript",
   "version": "1.0.0",
-  "description": "--- JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, principalmente en el frontend. Cada año, ECMA International publica una nueva edición de ECMAScript, la especificación a la cual se ajusta JavaScript. Aprende las nuevas características que implementa ECMAScript desde la versión ES6 hasta la versión ES13.",
+  "description": "JavaScript es el lenguaje más utilizado para desarrollo de aplicaciones web, principalmente en el frontend. Cada año, ECMA International publica una nueva edición de ECMAScript, la especificación a la cual se ajusta JavaScript. Aprende las nuevas características que implementa ECMAScript desde la versión ES6 hasta la versión ES13.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/joffur/cursoECMAScript/issues"
   },
-  "homepage": "https://github.com/joffur/cursoECMAScript#readme"
+  "homepage": "https://github.com/joffur/cursoECMAScript#readme",
+  "type": "module"
 }
