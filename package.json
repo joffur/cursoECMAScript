@@ -20,5 +20,8 @@
     "url": "https://github.com/joffur/cursoECMAScript/issues"
   },
   "homepage": "https://github.com/joffur/cursoECMAScript#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
